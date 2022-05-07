@@ -1,2 +1,2 @@
 # devops - App
-> A Business Application 
+> A New Business Application 
